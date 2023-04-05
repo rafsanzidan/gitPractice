@@ -1,2 +1,2 @@
 ## Description
-Working with basic git commands
+Working with basic git commands in the second class.
